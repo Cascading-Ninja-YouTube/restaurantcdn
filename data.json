@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "recipeName":"Big Fatty",
+        "recipeDescription":"Original pressure cooked marinated aromatic pulao rice layered with ghee serve with juicy, tender roasted chicken.",
+        "price":"299",
+        "veg":false,
+        "image":"BigFatty.png"
+    },
+    {
+        "id":2,
+        "recipeName":"Chicken Cheese Bun",
+        "recipeDescription":"Original pressure cooked marinated tender roasted mutton served with aromatic pulao rice.",
+        "price":"350",
+        "veg":false,
+        "image":"ChickenCheeseBun.png"
+    },
+    {
+        "id":3,
+        "recipeName":"Crispy Chicken Folds",
+        "recipeDescription":"Original low flamed cooked juicy prawn served with aromatic pulao rice.",
+        "price":"169",
+        "veg":false,
+        "image":"CrispyChickenFolds.png"
+    },
+    {
+        "id":4,
+        "recipeName":"Crispy Creepy Folds",
+        "recipeDescription":"Original complicated marinated net textured deep fried flavourful roasted chicken.",
+        "price":"120",
+        "veg":false,
+        "image":"CrispyCreepyFolds.png"
+    },
+    {
+        "id":5,
+        "recipeName":"Crunchy Chicken Cheese Folds",
+        "recipeDescription":"Soft tender flavourful mutton semi fried.",
+        "price":"180",
+        "veg":false,
+        "image":"CrunchyChickenCheeseFolds.png"
+    },
+    {
+        "id":6,
+        "recipeName":"Crunchy Fries",
+        "recipeDescription":"Authentic deep fried tender marinated flavourful chicken.",
+        "price":"150",
+        "veg":false,
+        "image":"CrunchyFries.png"
+    }
+    
+]
